@@ -1,0 +1,16 @@
+current directory: /Users/niko/Documents/sample_app/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.3.pre1/ext/binding_of_caller
+/Users/niko/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160627-11183-q4vhk5.rb extconf.rb
+
+current directory: /Users/niko/Documents/sample_app/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.3.pre1/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/niko/Documents/sample_app/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.3.pre1/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/niko/Documents/sample_app/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.3.pre1/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
